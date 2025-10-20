@@ -1,0 +1,8 @@
+climate_data.csv
+Year,Country,Average_Temperature,Total_Rainfall,Deforestation_Rate
+2018,Kenya,24.5,800,0.5
+2019,Kenya,24.8,750,0.6
+2020,Kenya,25.1,780,0.7
+2021,Kenya,25.3,790,0.8
+2022,Kenya,25.5,770,0.9
+
